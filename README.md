@@ -12,7 +12,8 @@ Fun fact:
 - I love drawing... tiny figures
 
 ### Project examples:
-**[Project 1_Machine Learning: Customer Bookings Prediction]** (https://github.com/hongle-louis/ds_british-airway_prj)
-**Project 2_NLP: Job Skill Analysis**
-**Project 3_PowerBI: HR Dashboard - Strategic insights**
+- **[Project 1_Machine Learning: Customer Bookings Prediction](https://github.com/hongle-louis/ds_british-airway_prj)**
+- **Project 2_NLP: Job Skill Analysis**
+- **Project 3_PowerBI: HR Dashboard - Strategic insights**
 
+My projects to date are rooted in HR, shaped by my background there. I'm actively exploring other domains, with more to come.
