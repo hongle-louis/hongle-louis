@@ -16,4 +16,4 @@ Fun fact:
 - **Project 2_NLP: Job Skill Analysis**
 - **Project 3_PowerBI: HR Dashboard - Strategic insights**
 
-My projects to date are rooted in HR, shaped by my background there. I'm actively exploring other domains, with more to come.
+My projects to date are mostly rooted in HR, shaped by my background there. But I'm actively exploring other domains, with more to come.
