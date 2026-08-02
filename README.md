@@ -10,3 +10,9 @@ Fun fact:
 - I have a dog and a cat, but also work as a pet sitter
 - I can't focus on reading books without audio
 - I love drawing... tiny figures
+
+### Project examples:
+**[Project 1_Machine Learning: Customer Bookings Prediction]** (https://github.com/hongle-louis/ds_british-airway_prj)
+**Project 2_NLP: Job Skill Analysis**
+**Project 3_PowerBI: HR Dashboard - Strategic insights**
+
