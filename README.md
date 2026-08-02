@@ -2,9 +2,9 @@
 
 I'm Hong, currently based in Rotterdam. 
 
-I used to work in Human Resources, but then soon realised I'm more into Tech and Data. So 4 years ago, I wrapped myself up and flew to Switzerland to earn a Master's degree in Business & Technology. I learned everything from scratch, from code to ... code. (trust me, it felt like being lost if you were someone who moved from business to tech). 
+I used to work in Human Resources, but soon realised I'm more into Tech and Data. So four years ago, I wrapped myself up and flew to Switzerland to earn a Master's in Business and Technology. I learned everything from scratch, from code to... code. (Trust me, moving from business to tech feels exactly like being lost.) 
 
-Shortly saying, I love doing anything related to humans, data and tech. Many people can code much better than me. But I can do it with meaning.
+Now I'm fully immersing myself in the industry. I'm not purely an engineer, nor purely from business. I live where the two meet. Many people can code better than me, but I don't treat data as just numbers. I treat it as a way to answer the real question: what is it actually telling us? 
 
 Fun fact: 
 - I have a dog and a cat, but also work as a pet sitter
