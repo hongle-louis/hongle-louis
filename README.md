@@ -15,6 +15,6 @@ Fun fact:
 - **[Project 1_Classification: Customer Bookings Prediction](https://github.com/hongle-louis/ds_british-airway_prj)**
 - **[Project 2_Clustering: Job Skill Analysis_NLP](https://github.com/hongle-louis/ds_job-text-analysis_prj)**
 - **[Project 3_PowerBI: HR Dashboard - Strategic insights](https://github.com/hongle-louis/bi_hr-dashboard)**
-- **Project 4_Topic Modelling: Financial News**
+- **[Project 4_Topic Modelling: Financial News](https://github.com/hongle-louis/ds_topic-modelling_reuter/tree/main)**
 
 My projects to date are mostly rooted in HR, shaped by my background there. But I'm actively exploring other domains, with more to come.
